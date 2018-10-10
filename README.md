@@ -2,6 +2,9 @@
 
 Example cross-site scripting vulnerabilities in action.
 
+### Ben & Max's Slides:
+
+https://docs.google.com/presentation/d/1AFTp-O4sVhAqQ-F9A6Zf0wRKo4FxEWkAajP3GmCGQnU/edit#slide=id.p
 
 ## Requirements
 
